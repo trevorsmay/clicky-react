@@ -1,3 +1,5 @@
+This project utilizes the components of React to create a game. The game is a memory game which increments a score based on the number of new photos that are clicked on. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

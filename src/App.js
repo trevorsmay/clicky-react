@@ -53,7 +53,7 @@ render() {
           clickCount={this.clickCount}
           id={card.id}
           key={card.id}
-          image={card.id}
+          image={card.image}
         />
         ))}
     </Wrapper>

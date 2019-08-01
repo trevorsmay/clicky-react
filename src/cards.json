@@ -2,61 +2,61 @@
     {
         "id": 1,
         "name": "Kim Jung Un",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kim_Jong-un_IKS_2018.jpg/978px-Kim_Jong-un_IKS_2018.jpg",
+        "image": "https://video-images.vice.com/articles/5d3ab1a69dc0a400082fd063/lede/1564138010064-kim-jong-un-missile.jpeg?crop=1xw:0.8398133748055988xh;center,center",
         "count": 0
     },
     {
         "id": 2,
         "name": " Vladmir Putin",
-        "image": "https://en.wikipedia.org/wiki/File:Vladimir_Putin_(2017-07-08).jpg",
+        "image": "https://timedotcom.files.wordpress.com/2018/03/gettyimages-932825264.jpg",
         "count": 0
     },
     {
         "id": 3,
         "name": "Angela Merkel",
-        "image": "https://en.wikipedia.org/wiki/File:Angela_Merkel._Tallinn_Digital_Summit.jpg",
+        "image": "https://i.cbc.ca/1.4274208.1504477382!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/merkel-no-turkey-eu.jpg",
         "count": 0
     },
     {
         "id": 4,
         "name":"Boris Johnson",
-        "image": "https://en.wikipedia.org/wiki/File:Boris_Johnson_MP.jpg",
+        "image": "https://e3.365dm.com/19/07/768x432/skynews-boris-johnson-conservatives_4726586.jpg?20190724004648",
         "count": 0
     },
     {
         "id": 5,
         "name":"Xi Jinping",
-        "image": "https://en.wikipedia.org/wiki/File:Xi_Jinping_in_2016.jpg",
+        "image": "https://specials-images.forbesimg.com/imageserve/5aecccdf31358e612fb80afa/416x416.jpg?background=000000&cropX1=1234&cropX2=3554&cropY1=348&cropY2=2667",
         "count": 0
     },
     {
         "id": 6,
         "name": "Ram Nath Kovind",
-        "image": "https://en.wikipedia.org/wiki/File:Ram_Nath_Kovind_official_portrait.jpg",
+        "image": "https://th.thgim.com/news/national/article19103005.ece/alternates/FREE_300/Kovind%201",
         "count": 0
     },
     {
         "id": 7,
         "name": "Hassan Rouhani",
-        "image": "https://en.wikipedia.org/wiki/File:Hassan_Rouani_2017_portrait.jpg",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/150714122256-hassan-rouhani-super-tease.jpg",
         "count": 0
     },
     {
         "id": 8,
         "name":"Justin Tredeau",
-        "image":"https://en.wikipedia.org/wiki/File:Trudeau_visit_White_House_for_USMCA_(cropped).jpg",
+        "image":"https://images.thestar.com/otAS7LX0_6nz_8_ingGCkyYIu8s=/1200x818/smart/filters:cb(1561951116977)/https://www.thestar.com/content/dam/thestar/opinion/editorials/2019/06/28/justin-trudeau-needs-to-show-he-has-the-qualities-to-lead/trudeau.jpg",
         "count": 0
     },
     {
         "id": 9,
         "name": "Emmanuel Macron",
-        "image":"https://en.wikipedia.org/wiki/File:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg",
+        "image":"https://timedotcom.files.wordpress.com/2018/10/gettyimages-1048128128.jpg",
         "count":0
     },
     {
         "id": 10,
         "name":"Shinzo Abe",
-        "image":"https://en.wikipedia.org/wiki/File:Shinzō_Abe_Official_(cropped_2).jpg",
+        "image":"https://cdn.japantimes.2xx.jp/wp-content/uploads/2018/02/n-abeinterview-a-20180206-2-870x580.jpg",
         "count": 0
     }
 ]
