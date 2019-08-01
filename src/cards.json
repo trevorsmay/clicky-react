@@ -58,5 +58,17 @@
         "name":"Shinzo Abe",
         "image":"https://cdn.japantimes.2xx.jp/wp-content/uploads/2018/02/n-abeinterview-a-20180206-2-870x580.jpg",
         "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Donald Trump",
+        "image": "https://i.kinja-img.com/gawker-media/image/upload/s--O_DIuN3I--/c_scale,f_auto,fl_progressive,q_80,w_800/p5rzgtfzle10yeb0d8bk.jpg",
+        "count": 0
+    }, 
+    {
+        "id": 12,
+        "name": "Cyril Ramaphosa",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAE47AX5d32Q/v0/1000x-1.jpg",
+        "count": 0
     }
 ]
